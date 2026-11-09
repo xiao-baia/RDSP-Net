@@ -4,8 +4,6 @@
   <a href="./README.md">English</a> | <b>简体中文</b>
 </p>
 
-本项目为 2024 届武汉理工大学毕业设计代码仓库：**《基于深度特征细化的 RGB-D 显著目标检测方法研究》（RDSP-Net）**，包含核心网络定义、PyTorch 转 ONNX 模型导出脚本以及基于 Gradio + ONNX Runtime 的可视化交互演示系统。
-
 ---
 
 ## 总体网络架构

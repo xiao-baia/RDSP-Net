@@ -4,8 +4,6 @@
   <b>English</b> | <a href="./README_zh.md">简体中文</a>
 </p>
 
-This repository contains the official implementation and interactive demo system for **RDSP-Net** (*Research on RGB-D Salient Object Detection Based on Depth Feature Refinement* / 2024 Graduation Thesis at Wuhan University of Technology), including the core network definitions, PyTorch-to-ONNX export scripts, and a Gradio + ONNX Runtime web interface.
-
 ---
 
 ## Overall Architecture
